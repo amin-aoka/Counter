@@ -8,6 +8,7 @@ let c=1;
 let auto = true;
 let myInterval;
 
+//functions
 let adder = function (){
     i+=1;
     number.innerText=i;
